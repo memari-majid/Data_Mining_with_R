@@ -1,2 +1,2 @@
-# Simple-Data-Mining-Twitter-R
+# Data-Mining-Twitter-R
 Simple Data Mining from Twitter in R
